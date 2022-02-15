@@ -1,4 +1,4 @@
-package pattern.stategy;
+package design.pattern.strategy;
 
 public class ScoreBoard {
 

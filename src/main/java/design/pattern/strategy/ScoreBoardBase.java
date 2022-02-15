@@ -1,4 +1,4 @@
-package pattern.stategy;
+package design.pattern.strategy;
 
 public abstract class ScoreBoardBase {
 
